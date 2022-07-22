@@ -1,0 +1,35 @@
+body {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.btn-add {
+  color: white;
+  background-color: #61dafb;
+}
+.btn-add:hover {
+  color: white;
+  background-color: #21232b;
+  box-shadow: 0 0 3px #21232b;
+}
+
+
+
+.list-group-mine .list-group-item {
+  background-color: #5acce8;
+  border-top: 1px solid #0091b5;
+  border-left-color: #fff;
+  border-right-color: #fff;
+}
+
+
+
+.bi-trash3:hover {
+  color: #808080;
+}
+
+
+.bi-trash3{
+  color: #a0a0a0;
+  cursor: pointer;
+}
